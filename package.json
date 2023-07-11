@@ -1,0 +1,11 @@
+{
+  "name": "tes_kandidat_qc",
+  "version": "3.0.0",
+  "private": true,
+  "dependencies": {
+    "cypress": "^12.17.1"
+  },
+  "scripts": {
+    "test.e2e": "cypress run --headless"
+  }
+}
